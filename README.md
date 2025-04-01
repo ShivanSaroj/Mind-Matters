@@ -1,56 +1,46 @@
-
-Objective- to make a website that will serve mentally depressed people 
-
-
-Learning Objective-
-To build any website from scratch using HTML, CSS and javaScript.
+# Mind Matters - Mental Health Support Platform
 
 
+[Demo Video](https://www.loom.com/share/1691768b2247476da77749a6415ed901)
 
-Demo-
-this is the video link of ouur working website
-https://www.loom.com/share/1691768b2247476da77749a6415ed901
+## Project Overview
 
+Mind Matters is a web platform designed to provide support and resources for individuals experiencing mental health challenges, particularly depression. The website connects users with professional help through various consultation options and provides mental health education.
 
+## Key Features
 
+### Consultation Services
+- **Three-tier support system**:
+  1. Regular case consultations
+  2. Serious case interventions
+  3. Emergency support services
+- **Multiple consultation modes**:
+  - Online video/chat sessions
+  - Offline in-person appointments
 
-How the website will work-
-first patient will be directed to home page.
+### Informational Resources
+- Current mental health news and research updates
+- Self-help resources and coping strategies
+- Educational articles about depression and treatment options
 
-patient can consults our doctors online or ofline in three cases-
-1. regular case
-2. serius case
-3. Emergency case
+### User Support
+- Direct contact via email/phone
+- Contact form for messages and inquiries
+- Emergency contact information prominently displayed
 
-We also focus on current hot news about medicine.
+## Technology Stack
 
-We provide first add, consultant, emergency help etc.
+### Frontend
+- **HTML5**: Semantic website structure
+- **CSS3**: Responsive design with mobile-first approach
+- **JavaScript**: Interactive elements and form validation
 
-Client can contact us via mail or phone number and also send as message via contact us.
+## Getting Started
+### Local Installation
+To run this project locally:
 
-at gmail--mindmatters@gmail.com
-
-phone-- +91 7800053840
-
-
-The dependencies we used in our project is 
-Mind Matters/
-index.html
-form.html
-css/
-main.css
-normalize.css
-../
-js
-script.js
-../
-images
-Readme
-
-
-Future Improvement-
-
-Build the backend functionality to let the website serve its feature and manage databases.
-
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/[your-username]/mind-matters.git
+2.Open index.html in your browser
 
